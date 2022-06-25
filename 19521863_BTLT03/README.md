@@ -1,4 +1,4 @@
-***Ngày: Thứ năm, 26 Tháng ba 2020, 12:00 AM***
+***Thứ năm, 26 Tháng ba 2020, 12:00 AM***
 
 ## Yêu cầu bài tập:
 
