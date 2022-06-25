@@ -1,3 +1,7 @@
+***Ngày: Thứ năm, 26 Tháng ba 2020, 12:00 AM***
+
+## Yêu cầu bài tập:
+
 1. Xây dựng lớp Phân Số (nhập, xuất, cộng trừ nhân chia, rút gọn)
 
 2. Xây dựng lớp DanhSachPhanSo để nhập xuất 1 danh sách các phân số
